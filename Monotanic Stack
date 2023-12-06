@@ -1,1 +1,5 @@
 
+## Monotanic Stack is used to find the first element in the right or left that is greater or less than the current element. Since each element in the array 
+will be visited no more than twice, so the time complexity is still $O(n)$.
+
+This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
